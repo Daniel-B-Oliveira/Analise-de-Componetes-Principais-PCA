@@ -6,7 +6,7 @@ A ideia central do PCA consiste em, dada uma nuvem de pontos no espaço original
 
 ## Pré-requisitos
 
-- R 4.5.
+- R 4.5
 - Biblioteca ggplot2
 - Biblioteca dplyr
 
